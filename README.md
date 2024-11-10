@@ -1,4 +1,4 @@
-# Hyderabad Metro Map System
+# Metro Journey Planner
 
 ## Usage
 The main menu provides the following options:
