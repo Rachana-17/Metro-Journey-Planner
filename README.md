@@ -64,7 +64,7 @@ Handles the metro network's graph structure:
 ├── Main.java # Main entry point of the program 
 ├── GraphM.java # Contains logic for the metro map graph 
 ├── stations.csv # List of metro stations 
-|── edges.csv # Edges between stations with distances
+├── edges.csv # Edges between stations with distances
 ```
 
 ---
